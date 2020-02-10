@@ -5,4 +5,8 @@ public class f1 {
 		
 		int a = 0;
 	}
+	
+	public static void foo() {
+		
+	}
 }
